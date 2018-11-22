@@ -1,0 +1,20 @@
+CC5X Version 3.4H, Copyright (c) B Knudsen Data, Norway 1992-2012
+ --> FREE edition, 8-16 bit int, 24 bit float, 32k code, reduced optim.
+mel.c:
+ 30. Apr 2014  18:00
+ Chip = 16F690
+ RAM : -------- -------- -------- -------- ====**** ******** ******** ********
+  40h: ******** ******** ******** ******** ******** ******** ******** ********
+  80h: -------- -------- -------- -------- ******** ******** ******** ********
+  C0h: ******** ******** ******** ******** ******** ******** -------- --------
+ 100h: -------- -------- -------- -------- ******** ******** ******** ********
+ 140h: ******** ******** ******** ******** ******** ******** -------- --------
+RAM usage: 4 bytes (4 local), 252 bytes free
+ Optimizing - removed 6 instructions (-3 %)
+ File 'mel.asm'
+ File 'mel.occ'
+ File 'mel.hex'
+ Codepage 0 has  156 word(s) :   7 %
+ Codepage 1 has    0 word(s) :   0 %
+Total of 156 code words (3 %)
+ * Estimated CODE SIZE of full optimization: 132 code words (-15 %)
